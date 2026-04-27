@@ -18,7 +18,7 @@ A beautiful, modern Todo app built with Flutter. Manage your tasks with style!
 
 ## 🚀 Live Demo
 
-**[Try Todo Geh →](https://coding-geh.github.io/todo-geh/)**
+**[Try Todo Geh →](https://codinggeh.github.io/todo-geh/)**
 
 ## 📦 Installation
 
@@ -31,7 +31,7 @@ A beautiful, modern Todo app built with Flutter. Manage your tasks with style!
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Coding-Geh/todo-geh.git
+   git clone https://github.com/codinggeh/todo-geh.git
    cd todo-geh
    ```
 
